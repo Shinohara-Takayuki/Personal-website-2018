@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 NOTE! (This is a work in progress)
 
 
-# Visit at:
-`https://personal-website-2018.herokua…`
+### Visit at:
+`https://personal-website-2018.herokuapp.com`
