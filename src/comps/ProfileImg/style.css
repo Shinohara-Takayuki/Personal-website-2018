@@ -1,0 +1,9 @@
+.profileImg {
+  height: 150px;
+  width: 150px;
+  background-image: url('../../static/images/profile2.jpg');
+  background-position: center;
+  background-size: cover;
+  display: block;
+  border-radius: 100px;
+}
